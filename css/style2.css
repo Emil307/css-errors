@@ -1,0 +1,145 @@
+* {
+	border: 1px red solideader {
+	width: 80%;
+    background-color: #E8E8E8;
+	height: 313px;
+	min-width:1445px;
+}
+
+header {
+    position:absolute;
+    background-color: #E8E8E8;
+    height: 313px;
+	width: 80%;
+	float: left;
+	min-width:1445px;	
+}
+
+.headerimg{
+	position: absolute;
+width: 181px;
+height: 177px;
+left: 457px;
+top: 80px;
+}
+
+h3 {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #FEC600;
+}
+
+.text {
+	float:left;
+	margin:1% 2%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.colorsandstyles {
+float:left;
+margin:1% 20%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.expensive {
+	float:left;
+	margin:8% 2%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.images {
+	float:left;
+	margin:8% 2%;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 42px;
+
+	color: #000000;
+}
+
+.imgdiv {
+	width:200px;
+	height:200px;
+	float:left;
+	margin:3% 0.5%;
+}
+
+.mt {
+	width:330px;
+	height:190px;
+	float:left;
+	margin:3% 4%;
+}
+
+.menu {
+	width:600px;
+	height:190px;
+	float:left;
+	margin:4% 6%;
+}
+
+article {
+    position:absolute;
+    background-color: #E8E8E8;
+    height: 2517px;
+	width: 80%;
+	float: left;
+	min-width:1445px;
+}
+
+.man {
+	width:100%;
+}
+
+footer {
+	position:absolute;
+	top:2835px;
+    background-color: #FEC600;
+    height: 200px;
+	width: 80%;
+	min-width:1445px;
+}
+
+.img_vk {
+	
+}
+
+.img_disk {
+	position: absolute;
+width: 109.17px;
+height: 90px;
+left: 473px;
+top: 2840px;
+
+background: url(diskord.png);
+}
+
+.countainer1 {
+	height:3100px;
+	width: 100%;
+	margin: 0 430px;
+}
